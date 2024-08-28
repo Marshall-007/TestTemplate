@@ -1,0 +1,22 @@
+body {
+    background-color: #ffcccc; /* Light Red */
+    color: #660000; /* Dark Red */
+}
+
+header, footer {
+    background-color: #cc0000; /* Medium Red */
+    color: white;
+}
+
+nav ul {
+    background-color: #990000; /* Darker Red */
+}
+
+nav ul li a {
+    color: #ff6666; /* Lightest Red */
+}
+
+button {
+    background-color: #990000; /* Darker Red */
+    color: white;
+}

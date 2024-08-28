@@ -1,0 +1,22 @@
+body {
+    background-color: #e6ccb3; /* Light Brown */
+    color: #4d2600; /* Dark Brown */
+}
+
+header, footer {
+    background-color: #8b4513; /* Medium Brown */
+    color: white;
+}
+
+nav ul {
+    background-color: #5c3a1e; /* Darker Brown */
+}
+
+nav ul li a {
+    color: #d2b48c; /* Lightest Brown */
+}
+
+button {
+    background-color: #5c3a1e; /* Darker Brown */
+    color: white;
+}
