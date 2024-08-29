@@ -1,22 +1,23 @@
+/* Red Theme Overrides */
 body {
     background-color: #ffcccc; /* Light Red */
     color: #660000; /* Dark Red */
 }
 
 header, footer {
-    background-color: #cc0000; /* Medium Red */
+    background-color: #cf4b4b; /* Medium Red */
     color: white;
 }
 
-nav ul {
+.navbar {
     background-color: #990000; /* Darker Red */
 }
 
-nav ul li a {
+.nav-link {
     color: #ff6666; /* Lightest Red */
 }
 
-button {
+footer button {
     background-color: #990000; /* Darker Red */
     color: white;
 }

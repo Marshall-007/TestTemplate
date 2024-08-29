@@ -1,3 +1,4 @@
+/* Brown Theme Overrides */
 body {
     background-color: #e6ccb3; /* Light Brown */
     color: #4d2600; /* Dark Brown */
@@ -8,15 +9,15 @@ header, footer {
     color: white;
 }
 
-nav ul {
+.navbar {
     background-color: #5c3a1e; /* Darker Brown */
 }
 
-nav ul li a {
+.nav-link {
     color: #d2b48c; /* Lightest Brown */
 }
 
-button {
+footer button {
     background-color: #5c3a1e; /* Darker Brown */
     color: white;
 }

@@ -1,3 +1,4 @@
+/* Blue Theme Overrides */
 body {
     background-color: #cce7ff; /* Light Blue */
     color: #003366; /* Dark Blue */
@@ -8,15 +9,15 @@ header, footer {
     color: white;
 }
 
-nav ul {
+.navbar {
     background-color: #003f7f; /* Darker Blue */
 }
 
-nav ul li a {
+.nav-link {
     color: #99cfff; /* Lightest Blue */
 }
 
-button {
+footer button {
     background-color: #003f7f; /* Darker Blue */
     color: white;
 }

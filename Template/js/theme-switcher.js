@@ -8,3 +8,4 @@ function setTheme(color) {
         themeStyle.setAttribute('href', 'css/theme-blue.css');
     }
 }
+
